@@ -43,10 +43,10 @@ FraudSense/
 
 ## How It Works
 
-1. **Explore** — `Data_Analysis.ipynb` walks through EDA, feature importance, and model training on 6.3M+ transactions
-2. **Model** — Random Forest classifier serialized as `fraud_detection_model_pipeline.pk2`
-3. **Predict** — `fraud_detection.py` loads the pipeline and serves real-time predictions via Streamlit
-4. **Insight** — TRANSFER and CASHOUT flagged as highest-risk transaction types through feature importance analysis
+1. **Explore** - `Data_Analysis.ipynb` walks through EDA, feature importance, and model training on 6.3M+ transactions
+2. **Model** - Random Forest classifier serialized as `fraud_detection_model_pipeline.pk2`
+3. **Predict** - `fraud_detection.py` loads the pipeline and serves real-time predictions via Streamlit
+4. **Insight** - TRANSFER and CASHOUT flagged as highest-risk transaction types through feature importance analysis
 
 ---
 
