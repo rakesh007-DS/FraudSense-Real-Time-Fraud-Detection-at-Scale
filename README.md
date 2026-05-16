@@ -1,4 +1,4 @@
-# FraudSense — Real-Time Fraud Detection at Scale
+# FraudSense - Real-Time Fraud Detection at Scale
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?style=flat-square)
