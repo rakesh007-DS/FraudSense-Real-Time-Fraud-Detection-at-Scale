@@ -13,7 +13,7 @@
 
 ## What It Does
 
-FraudSense is a machine learning system that detects fraudulent bank transactions in real time. Trained on a highly imbalanced dataset of over 6.3 million transactions, it identifies fraud patterns with 98% accuracy — and deploys as a no-code Streamlit web app so any analyst can run live predictions without writing a single line of code.
+FraudSense is a machine learning system that detects fraudulent bank transactions in real time. Trained on a highly imbalanced dataset of over 6.3 million transactions, it identifies fraud patterns with 98% accuracy - and deploys as a no-code Streamlit web app so any analyst can run live predictions without writing a single line of code.
 
 ---
 
